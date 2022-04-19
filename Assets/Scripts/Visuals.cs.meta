@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cece278f76ac3d748a7fb441332d2810
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefab_panel: {fileID: 7704836368436364479, guid: d0776f61f6ca46947a50aff998eb0f6d, type: 3}
+  - prefab_wall: {fileID: 7132378661602241221, guid: 5466a1b241d68f74991dd47c30c1ea72, type: 3}
+  - prefab_theseus: {fileID: 460700796078907708, guid: 04922d344c8a4644e8c45d50fc092f3b, type: 3}
+  - prefab_minotaur: {fileID: 7588340237068180205, guid: 6e42a430df8afdd4eb8b31e01dca9575, type: 3}
+  - prefab_exit: {fileID: 6941415817685822890, guid: 51ea1a587bc0126498a46f102e1b4cd1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
